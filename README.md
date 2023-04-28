@@ -25,7 +25,6 @@ Reviewers: TBD
 - By the end of this lecture, associates should have an understanding of what classes and objects are. Associates should also understand the importance of Object-Oriented Programming and some of its basic use cases.
 
 ### Related Content
-- Some of the earlier exercises found [here](https://www.w3resource.com/java-exercises/oop/index.php) might help the associates get practice writing classes and objects. 
 - The [JAV-GCE-OOP](https://revature0.sharepoint.com/:x:/r/sites/trainers/Shared%20Documents/Line%20Of%20Business/1.%20Units/Core%20Java/Core%20Java%20Unit%20Breakdown.xlsx?d=w6a2dcdffed1f438c86de3379040af09a&csf=1&web=1&e=AE1zpI&nav=MTJfSjM0X3swMDAwMDAwMC0wMDAxLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDB9) would be a good activity to use in order to show off working with OOP in Java.
 
  ### Discussion Questions
